@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Git+.+A+passionate+Machine+Learning%2C+Deep+learning+and+AI+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F729F2&lines=Welcome+to+my+GitHub+Profile+%5E%5E+)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Abdullah Kamal Muhammad</h1>
 <h3 align="center">A passionate communications and information engineering student and from Egypt</h3>
 
