@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F729F2&lines=Welcome+to+my+GitHub+Profile+%5E%5E+)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Abdullah Kamal Muhammad</h1>
-<h3 align="center">A passionate Communications and Information Engineering student and from Egypt</h3>
+<h3 align="center">A passionate Communications and Information Engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah21-kamal&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah21-kamal" /> </p>
 
