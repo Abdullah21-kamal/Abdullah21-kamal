@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **s-abdullahkamal@zewailcity.edu.eg**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **It's not a problem if I don't know something, but it's a problem when I give up on learning it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
