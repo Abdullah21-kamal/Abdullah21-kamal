@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently a senior student **at university of science and technology at Zewail City**
 
-- 🌱 I’m currently learning ** Artificial Intellignece, Machine learning, Natural Language Processing, Deep Learning and Data Science**
+- 🌱 I’m currently learning **Artificial Intellignece, Machine learning, Natural Language Processing, Deep Learning and Data Science**
 
 - 👯 I’m looking to collaborate **Data science and Data Analysis projects**
 
