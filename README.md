@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently a senior student **at university of science and technology at Zewail City**
 
-- 🌱 I’m currently learning **machine learning and deep learning**
+- 🌱 I’m currently learning ** Artificial Intellignece, Machine learning, Natural Language Processing, Deep Learning and Data Science**
 
-- 👯 I’m looking to collaborate **Data science projects**
+- 👯 I’m looking to collaborate **Data science and Data Analysis projects**
 
-- 🤝 I’m looking for help with **deep learning projects**
+- 🤝 I’m looking for help with **artificail intillegence and deep learning projects**
 
-- 💬 Ask me about **C++,MatLab, python, Deep Learning and machine learning - Electromagnetic waves and Communications Engineering**
+- 💬 Ask me about **C++,MatLab, python, Deep Learning, natural language processing and machine learning - Electromagnetic waves and Communications Engineering**
 
-- 📫 How to reach me **s-abdullahkamal@zewailcity.edu.eg**
+- 📫 How to reach me **s-abdullahkamal@zewailcity.edu.eg or abdullahkamal511@gmail.com**
 
 - ⚡ Fun fact **It's not a problem if I don't know something, but it's a problem when I give up on learning it**
 
