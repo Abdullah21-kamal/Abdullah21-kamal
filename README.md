@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate **Data science and Data Analysis projects**
 
-- 🤝 I can help with **artificail intillegence and deep learning projects**
+- 🤝 I can help with **artificial intillegence and deep learning projects**
 
 - 💬 Ask me about **C++,MatLab, python, Deep Learning, natural language processing and machine learning - Electromagnetic waves and Communications Engineering**
 
