@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah21-kamal" alt="abdullah21-kamal" /></a> </p>
 
-- 🔭 I a graduate of **Communications and Information Engineering at University of Science and Technology at Zewail City**
+- 🔭 I am a graduate of **Communications and Information Engineering at University of Science and Technology at Zewail City**
 
 - 🌱 I studied **Artificial Intellignece, Machine learning, Natural Language Processing, Deep Learning and Data Science**
 
