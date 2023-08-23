@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah21-kamal" alt="abdullah21-kamal" /></a> </p>
 
-- 🔭 I’m currently a senior student **at university of science and technology at Zewail City**
+- 🔭 I’m currently a graduate of **Communications and Information Engineering at University of Science and Technology at Zewail City**
 
-- 🌱 I’m currently learning **Artificial Intellignece, Machine learning, Natural Language Processing, Deep Learning and Data Science**
+- 🌱 I studied **Artificial Intellignece, Machine learning, Natural Language Processing, Deep Learning and Data Science**
 
 - 👯 I’m looking to collaborate **Data science and Data Analysis projects**
 
-- 🤝 I can help with **artificial intillegence and deep learning projects**
+- 🤝 I can help with **Artificial Intillegence and Deep Learning projects**
 
 - 💬 Ask me about **C++,MatLab, python, Deep Learning, natural language processing and machine learning - Electromagnetic waves and Communications Engineering**
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abdullah-kamal-6226b61a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-abdullahkamal@zewailcity.edu.eg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdullah-kamal-6226b61a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahkamal511@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
