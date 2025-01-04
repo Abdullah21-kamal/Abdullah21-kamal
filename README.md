@@ -7,22 +7,23 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah21-kamal" alt="abdullah21-kamal" /></a> </p>
 
 - 🔭 I am a graduate of **Communications and Information Engineering at University of Science and Technology at Zewail City**
+- 🔭 I am a  **Computer Vision Researcher at The American University in Cairo as well as Zewail City of Science and Technology** 
+- 🔭 I am a  **Teaching Assistant at the school of Computational Sciences and Artificial Intelligence, Zewail City**
+- 🌱 I studied **Artificial Intellignece, Computer Vision, Machine learning, Natural Language Processing, Deep Learning, Siganl Processing and Data Science**
 
-- 🌱 I studied **Artificial Intellignece, Machine learning, Natural Language Processing, Deep Learning and Data Science**
+- 👯 I’m looking to collaborate **AI, Data science and Data Analysis projects**
 
-- 👯 I’m looking to collaborate **Data science and Data Analysis projects**
+- 🤝 I can help with **Artificial Intillegence,Computer Vision and Deep Learning projects**
 
-- 🤝 I can help with **Artificial Intillegence and Deep Learning projects**
+- 💬 Ask me about **C++,MatLab, python, Deep Learning, Computer Vision, natural language processing, machine learning, signal processing techniques and Communications Engineering**
 
-- 💬 Ask me about **C++,MatLab, python, Deep Learning, natural language processing and machine learning - Electromagnetic waves and Communications Engineering**
-
-- 📫 How to reach me **s-abdullahkamal@zewailcity.edu.eg or abdullahkamal511@gmail.com**
+- 📫 How to reach me **t-abdullahkamal@zewailcity.edu.eg or abdullahkamal511@gmail.com**
 
 - ⚡ Fun fact **It's not a problem if I don't know something, but it's a problem when I give up on learning it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abdullah-kamal-6226b61a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-abdullahkamal@zewailcity.edu.eg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdullah-kamal-6226b61a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="t-abdullahkamal@zewailcity.edu.eg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
